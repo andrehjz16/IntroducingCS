@@ -13,6 +13,7 @@ namespace IntroducingCS
             {
                 Console.ReadLine();
                 Console.WriteLine("Hello World");
+                Console.ReadLine();
 
             }
         }
